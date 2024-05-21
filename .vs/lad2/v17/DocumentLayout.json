@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\lad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|d:\\new folder\\lad2\\lad2\\bai2b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|solutionrelative:lad2\\bai2b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|d:\\new folder\\lad2\\lad2\\bai2a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|solutionrelative:lad2\\bai2a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E7FDAB-B99C-408C-BD19-C8CEE1C3D0B4}|Lab2.2\\Lab2.2.csproj|d:\\new folder\\lad2\\lab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E7FDAB-B99C-408C-BD19-C8CEE1C3D0B4}|Lab2.2\\Lab2.2.csproj|solutionrelative:lab2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117AF631-B473-4545-BFED-3923572B6A5A}|Lab2.3\\Lab2.3.csproj|d:\\new folder\\lad2\\lab2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117AF631-B473-4545-BFED-3923572B6A5A}|Lab2.3\\Lab2.3.csproj|solutionrelative:lab2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\lad2\\lad2\\Bai1b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lad2\\Bai1b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\lad2\\lad2\\Bai1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lad2\\Bai1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\lad2\\lad2\\Bai1c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lad2\\Bai1c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|D:\\New folder\\lad2\\lad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF08C-7C3F-45CC-A14E-75961D5C4FDF}|lad2\\lad2.csproj|solutionrelative:lad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2b.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Bai2b.cs",
+              "RelativeDocumentMoniker": "lad2\\Bai2b.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Bai2b.cs",
+              "RelativeToolTip": "lad2\\Bai2b.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2a.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Bai2a.cs",
+              "RelativeDocumentMoniker": "lad2\\Bai2a.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Bai2a.cs",
+              "RelativeToolTip": "lad2\\Bai2a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:13.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\Lab2.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2.2\\Program.cs",
+              "ToolTip": "D:\\New folder\\lad2\\Lab2.2\\Program.cs",
+              "RelativeToolTip": "Lab2.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:07:39.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\Lab2.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2.3\\Program.cs",
+              "ToolTip": "D:\\New folder\\lad2\\Lab2.3\\Program.cs",
+              "RelativeToolTip": "Lab2.3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:40:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai1a.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Bai1a.cs",
+              "RelativeDocumentMoniker": "lad2\\Bai1a.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Bai1a.cs",
+              "RelativeToolTip": "lad2\\Bai1a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:35:22.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai1b.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Bai1b.cs",
+              "RelativeDocumentMoniker": "lad2\\Bai1b.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Bai1b.cs",
+              "RelativeToolTip": "lad2\\Bai1b.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:44:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai1c.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Bai1c.cs",
+              "RelativeDocumentMoniker": "lad2\\Bai1c.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Bai1c.cs",
+              "RelativeToolTip": "lad2\\Bai1c.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:45:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\lad2\\lad2\\Program.cs",
+              "RelativeDocumentMoniker": "lad2\\Program.cs",
+              "ToolTip": "D:\\New folder\\lad2\\lad2\\Program.cs",
+              "RelativeToolTip": "lad2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:17:02.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
